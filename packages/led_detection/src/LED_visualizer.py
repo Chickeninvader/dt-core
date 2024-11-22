@@ -9,8 +9,8 @@ from matplotlib.backends.backend_qt4agg import (
     FigureCanvasQTAgg as FigureCanvas,
     NavigationToolbar2QT as NavigationToolbar,
 )
-from PyQt4.QtCore import *
-from PyQt4.QtGui import *
+from PyQt6.QtCore import *
+from PyQt6.QtGui import *
 
 import rospy
 from duckietown_msgs.msg import LEDDetectionArray, LEDDetectionDebugInfo

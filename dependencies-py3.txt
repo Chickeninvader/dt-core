@@ -8,4 +8,4 @@ ros-node-utils==2.0.0
 
 # constraints: >= 6.0.9
 compmake-z6==6.1.5
-PyQt4
+PyQt6
